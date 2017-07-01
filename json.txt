@@ -1,0 +1,7 @@
+[
+	{"username":"amit123","passord":"asd@123"},
+	{"username":"vinit046","passord":"asd@432"},
+	{"username":"rahul765","passord":"asd@987"},
+	{"username":"sunny678","passord":"asd@354"},
+	{"username":"anku124","passord":"asd@980"}
+]
